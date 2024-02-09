@@ -17,6 +17,7 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
     {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
   ],
 }

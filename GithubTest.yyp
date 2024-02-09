@@ -36,6 +36,10 @@
   "resources": [
     {"id":{"name":"obj_object","path":"objects/obj_object/obj_object.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"ParticleSystem1","path":"particles/ParticleSystem1/ParticleSystem1.yy",},},
+    {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
+    {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
